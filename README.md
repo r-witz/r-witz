@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raphaël</h1>
 <h3 align="center">A passionate back-end developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-witz&label=Profile%20views&color=0e75b6&style=flat" alt="r-witz" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-witz" alt="r-witz" /></a> </p>
 
 - 🔭 I’m currently working on [MOG Studios](mog-studios.fr)
@@ -24,9 +22,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/r.witz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/r.witz" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-witz&show_icons=true&locale=en&layout=compact" alt="r-witz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-witz&show_icons=true&theme=dark&locale=en&layout=compact" alt="r-witz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-witz&show_icons=true&locale=en" alt="r-witz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-witz&show_icons=true&theme=dark&locale=en" alt="r-witz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-witz&" alt="r-witz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-witz&theme=dark" alt="r-witz" /></p>
 
