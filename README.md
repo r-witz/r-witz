@@ -1,5 +1,24 @@
-### Hi there 👋
+###👨‍💻 Passionné par l'informatique et les nouvelles technologies
 
+Bonjour à tous ! Je m'appelle Raphaël Witz, j'ai 18 ans et je suis étudiant à Supinfo Lille, où je me spécialise en informatique. Mon engagement dans le monde de l'informatique va bien au-delà des simples lignes de code. C'est une exploration constante de la créativité et de l'innovation qui me motive chaque jour.
+
+La technologie, pour moi, est une toile vierge où je sculpte des solutions, relève des défis et contribue à un monde en perpétuelle évolution. Toujours avide d'apprendre, je considère l'informatique comme bien plus qu'une discipline académique – c'est un moyen passionnant d'insuffler un changement dans le monde. ✨
+
+
+🚀 Compétences clés :
+
+- 💻 Développement logiciel : Maîtrise des langages de programmation tels que Python (7+ ans d'expérience) et C.
+- 🌐 Développement web : Connaissance approfondie de HTML, CSS, JavaScript.
+- 🛠️ Administration système : Compétences en gestion et maintenance de systèmes informatiques sous Linux.
+
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ###Mongo DB
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: r.witz@proton.me or +33 6 43 31 92 42
 <!--
 **r-witz/r-witz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
