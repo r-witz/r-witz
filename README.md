@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **r.witz@proton.me**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/r-witz_rapha%C3%ABl-witz-cv-2023-2024-activity-7138231781765349377-EPch](https://www.linkedin.com/posts/r-witz_rapha%C3%ABl-witz-cv-2023-2024-activity-7138231781765349377-EPch)
+- 📄 Know about my experiences [https://r-witz-cv.tiiny.site](https://r-witz-cv.tiiny.site)
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-witz&show_icons=true&theme=dark&locale=en&layout=compact" alt="r-witz" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-witz&theme=dark" alt="r-witz" /></p>
