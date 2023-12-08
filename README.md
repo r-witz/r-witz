@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphaël</h1>
 <h3 align="center">A passionate back-end developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-witz" alt="r-witz" /></a> </p>
-
-- 🔭 I’m currently working on [MOG Studios](mog-studios.fr)
+- 🔭 I’m currently working on [MOG Studios](https://github.com/r-witz/MOG-Studios)
 
 - 🌱 I’m currently learning **MongoDB, Javascript and C**
 
