@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphaël</h1>
 <h3 align="center">A passionate back-end developer from France</h3>
 
-- 🔭 I’m currently working on [Clanquish Chronicles](https://github.com/r-witz/Clanquish-Chronicles)
+- 🔭 I’m currently working on [Ranyel Valley](https://github.com/r-witz/Ranyel-Valley)
 
 - 🌱 I’m currently learning **MongoDB, Javascript and C**
 
