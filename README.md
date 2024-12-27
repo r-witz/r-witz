@@ -1,6 +1,6 @@
 # Welcome to My Digital Workspace! 👨‍💻
 
-![Banner](https://user-images.githubusercontent.com/placeholder/banner.jpg)
+![Banner]()
 
 > 💡 *"Coding is not just logic; it’s creativity, curiosity, and a little magic."*
 
@@ -13,37 +13,37 @@
 
 ## 🛠️ My Tech Arsenal
 
-**Programming Languages**:
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+**Programming Languages**:<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Zig](https://img.shields.io/badge/-Zig-f7a41d?style=for-the-badge&logo=zig&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python)
 
-**Tools & Platforms**:
+**Tools & Platforms**:<br>
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 **Specialties**:
 - 💾 **Low-Level Programming**
 - 🛡️ **Cybersecurity**
 - 📐 **Algorithm Design**
-- 🌐 **Web Development**
 
 ## 📚 Current Adventures
-
-🔍 **Exploring**:
-- The world of **Zig** for low-level programming.
-- Advanced **Cybersecurity Concepts** as I prepare for my Master's.
 
 🎮 **Building**:
 - A long-term **AI alignment game** with **Duskforge Studios**.
 - Innovative projects that blend **technology** and **impactful ideas**.
 
 🧗 **Challenging Myself**:
-- Tackling algorithmic problems to deepen my understanding of data structures and graph theory.
-- Collaborating on open-source projects to contribute and grow.
+- Exploring the world of **Zig** for low-level programming.
+- Algorithmic problems to deepen my understanding of data structures and graph theory.
+
+> 💡 *"Difficult takes a day; impossible takes a week."*
 
 ## 🚀 Achievements
 
@@ -55,8 +55,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/r-witz)](https://www.linkedin.com/in/r-witz)
 [![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=proton&logoColor=white)](mailto:r.witz@proton.me)
+[![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Firefox&logoColor=white&link=https://www.raphael-witz.com)](https://www.raphael-witz.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-witz)
-
----
   
 *Always excited to collaborate on projects, brainstorm ideas, or just connect—feel free to drop a message!* 😊
