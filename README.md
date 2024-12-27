@@ -1,6 +1,6 @@
 # Welcome to My Digital Workspace! 👨‍💻
 
-![Banner]()
+![Banner](./banner.png)
 
 > 💡 *"Coding is not just logic; it’s creativity, curiosity, and a little magic."*
 
