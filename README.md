@@ -46,7 +46,7 @@
 
 ## 🚀 Achievements
 
-- 🏆 **IONIS GoodWills 2024 Participant**: Presented an idea of ambitious game concept to raise awareness on AI alignment issues.
+- 🏆 **IONIS GoodWills 2025 Participant**: Presented an idea of ambitious game concept to raise awareness on AI alignment issues.
 - 🛠️ **1st Year SUPINFO Project**: Built a fully functional hexagonal board game from scratch in **Python**.
 - 🎓 **Academic Excellence**: Top of the class with high technical expertise.
 
