@@ -36,17 +36,6 @@
 
 > 💡 *"Difficult takes a day; impossible takes a week."*
 
-## 🏅 Achievements
-
-- 🏆 **IONIS GoodWills 2025**: Proposed an ambitious narrative game concept on AI alignment awareness; though not funded, the project evolved into an independent creative venture under **@DUSKFORGE**.
-- 🛠️ **2nd Year SUPINFO Project**: Designed and developed a praised **2D isometric city builder** in **Godot Engine**, with simulated citizens, research, and colonization.
-- 🎓 **Academic Excellence**: Top of the class with a focus on advanced technical problem-solving.
-
 ## 🤝 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/r-witz)](https://www.linkedin.com/in/r-witz)
-[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=proton&logoColor=white)](mailto:r.witz@proton.me)
-[![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Firefox&logoColor=white&link=https://www.raphael-witz.com)](https://www.raphael-witz.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-witz)
   
 *Always excited to collaborate on projects, brainstorm ideas, or just connect—feel free to drop a message!* 😊
