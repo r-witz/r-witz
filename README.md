@@ -1,4 +1,4 @@
-# Welcome to My Digital Workspace! 👨‍💻
+# Hello! 👋
 
 ![Banner](./banner.png)
 
@@ -6,47 +6,43 @@
 
 ## 🌟 Who Am I?
 
-- 🎓 **Computer Science Student** | SUPINFO Lille
-- 💻 **Low-Level & Systems Developer** | Fan of **Linux** & **Cybersecurity**
-- 🎮 **Co-founder @Duskforge Studios** | Exploring the intersection of **tech** and **creativity**
-- 🚀 Always learning, experimenting, and building solutions for the future.
+- 🎓 **Computer Science Student @SUPINFO** | Exploring systems, software architecture, and impactful engineering
+- 💻 **Data Pipeline Developer @OverSOC** | Designing modular, scalable, and maintainable data platforms
+- 🚀 **Co-founder @DUSKFORGE** | Exploring the intersection of tech and creativity
 
 ## 🛠️ My Tech Arsenal
 
 **Programming Languages**:<br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Zig](https://img.shields.io/badge/-Zig-f7a41d?style=for-the-badge&logo=zig&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python)
+![Zig](https://img.shields.io/badge/-Zig-f7a41d?style=for-the-badge&logo=zig&logoColor=white)
 
 **Tools & Platforms**:<br>
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 **Specialties**:
-- 💾 **Low-Level Programming**
-- 🛡️ **Cybersecurity**
-- 📐 **Algorithm Design**
+- 🏗️ **Systems & Data Architecture**
+- 📦 **Modular and Scalable Designs**
+- 📐 **Data Structures & Algorithms**
 
-## 📚 Current Adventures
+## 🧭 Current Adventures
 
-🎮 **Building**:
-- A long-term **AI alignment game** with **Duskforge Studios**.
-- Innovative projects that blend **technology** and **impactful ideas**.
+🌌 **Creating New Universes**:
+- Developing an original **narrative-driven game** concept **@DUSKFORGE**
+- Innovative game project that blend **technology** with **creative storytelling**
 
-🧗 **Challenging Myself**:
-- Exploring the world of **Zig** for low-level programming.
-- Algorithmic problems to deepen my understanding of data structures and graph theory.
+🧗 **Sharpening Skills**:
+- Diving deeper into **system design** principles
+- Exploring the world of **Zig** for low-level programming
 
 > 💡 *"Difficult takes a day; impossible takes a week."*
 
-## 🚀 Achievements
+## 🏅 Achievements
 
-- 🏆 **IONIS GoodWills 2025 Participant**: Presented an idea of ambitious game concept to raise awareness on AI alignment issues.
-- 🛠️ **1st Year SUPINFO Project**: Built a fully functional hexagonal board game from scratch in **Python**.
-- 🎓 **Academic Excellence**: Top of the class with high technical expertise.
+- 🏆 **IONIS GoodWills 2025**: Proposed an ambitious narrative game concept on AI alignment awareness; though not funded, the project evolved into an independent creative venture under **@DUSKFORGE**.
+- 🛠️ **2nd Year SUPINFO Project**: Designed and developed a praised **2D isometric city builder** in **Godot Engine**, with simulated citizens, research, and colonization.
+- 🎓 **Academic Excellence**: Top of the class with a focus on advanced technical problem-solving.
 
 ## 🤝 Let’s Connect!
 
